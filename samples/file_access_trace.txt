@@ -1,0 +1,12 @@
+# A real-file access order used by the automatic FIFO/LRU/LFU demonstration.
+# Capacity: 3 files. Each letter maps to a separate generated 4 MB file.
+A
+B
+C
+A
+D
+B
+E
+A
+C
+D
